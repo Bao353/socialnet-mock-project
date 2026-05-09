@@ -47,4 +47,3 @@ h2{font-size:22px;color:#333;margin-bottom:6px}
 </div>
 </body>
 </html>
-EOF

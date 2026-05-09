@@ -58,4 +58,3 @@ button:hover{opacity:.9}
 </div>
 </body>
 </html>
-EOF
