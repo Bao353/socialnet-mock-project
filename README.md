@@ -1,4 +1,3 @@
-cat > ~/socialnet-project/README.md << 'EOF'
 # SocialNet Project
 
 ## Tech Stack
